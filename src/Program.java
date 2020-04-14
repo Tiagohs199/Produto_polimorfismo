@@ -48,11 +48,6 @@ public class Program {
 			System.out.println(pro.priceTag());
 		}
 		
-		
-		
-		
-		
 		sc.close();
 	}
-
 }
